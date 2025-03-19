@@ -6,6 +6,7 @@ BEFORE STARTING MAKE SURE YOU HAVE:
 - NUMPY
 - SYMPY
 
--->use pip to install the libraries
+==>use pip to install the libraries
+
 
 <<**CAN YOU HACK INTO THE NEXUS AND CRACK THE VAULT?**>>
